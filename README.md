@@ -12,9 +12,9 @@
 ## 📂 المشاريع
 | اليوم | الملف | الوصف |
 |-------|-------|-------|
-| 1 | `day1.py` | أول كود Python - بداية الرحلة |
-| 2 | `day2.py` | نظام مراقبة درجة الحرارة (شروط) |
-| 3 | `day3.py` | حساب معدل درجات الطلاب (قوائم وحلقات) |
+| 1 | `day1.py` | code python 1 |
+| 2 | `day2.py` | Temprature(condition) |
+| 3 | `day3.py` | Average student mark (lists & loops) |
 
 ## 🛠️ المهارات المكتسبة
 - Git & GitHub
